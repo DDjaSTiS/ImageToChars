@@ -1,5 +1,5 @@
 # Image to Chars
-Technology: Winforms
+Technology: Windows Forms
 ## Description
 Application for transforming image to chars (ASCII art).
 
